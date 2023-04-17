@@ -1,5 +1,5 @@
 Author: Tymoteusz Morawiec
 to run program run: node execute
 to run tests run: npm test
-
+node_version: v16.14.0
 i hope everything works just fine :) enjoy
